@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**dgoon/dgoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Kangsan Lee** (dgoon), a developer based in Seoul, South Korea.
 
-Here are some ideas to get you started:
+*I love to write programs. I love to solve problems. I love to automate.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Jack of all trades — from backend to infra, from product to AI, I enjoy diving into every corner of the stack.*
+
+*I code slower than AI, but I still mass-produce bugs faster.*
+
+### About Me
+
+- 🏢 Co-CEO & CTO at **Aligndy Co., Ltd.**
+- 🎓 Seoul National University (SNUCSE)
+- 💼 Former Lead Engineer & Product Head, VP at HYPERCONNECT
+- ☕ Currently hobby coding — made with coffee
+- 📚 Tuesday Study Group (TSG) member since 2008
+
+### Interests
+
+- 🤖 AI & LLMs (Ollama, Claude, Gemini)
+- 🐍 Python, Full-stack Development
+- 🗄️ Databases, Infrastructure, Automation
+- 🎮 Gaming, ⌨️ Keyboards, 💰 Finance
+
+### Links
+
+- 📝 Blog: [blog.dgoon.net](https://blog.dgoon.net)
+- 💼 LinkedIn: [linkedin.com/in/dgoon](https://linkedin.com/in/dgoon)
