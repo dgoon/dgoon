@@ -11,7 +11,6 @@ I'm **Kangsan Lee** (dgoon), a developer based in Seoul, South Korea.
 ### About Me
 
 - 🏢 Co-CEO & CTO at **Aligndy Co., Ltd.**
-- 🎓 Seoul National University (SNUCSE)
 - 💼 Former Lead Engineer & Product Head, VP at HYPERCONNECT
 - ☕ Currently hobby coding — made with coffee
 - 📚 Tuesday Study Group (TSG) member since 2008
