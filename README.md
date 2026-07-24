@@ -17,7 +17,7 @@ I'm **Kangsan Lee** (dgoon), a developer based in Seoul, South Korea.
 
 ### Interests
 
-- 🤖 AI & LLMs (Ollama, Claude, Gemini)
+- 🤖 Build Products
 - 🐍 Python, Full-stack Development
 - 🗄️ Databases, Infrastructure, Automation
 - 🎮 Gaming, ⌨️ Keyboards, 💰 Finance
