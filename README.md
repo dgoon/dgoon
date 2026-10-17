@@ -1,30 +1,30 @@
-## Hi there 👋
+## 안녕하세요 👋
 
-I'm **Kangsan Lee** (dgoon), a developer based in Seoul, South Korea.
+서울에서 일하는 개발자 **이강산**(dgoon)입니다.
 
-*I love to write programs. I love to solve problems. I love to automate.*
+*프로그램 쓰는 걸 좋아합니다. 문제 푸는 걸 좋아합니다. 자동화하는 걸 좋아합니다.*
 
-*Jack of all trades — from backend to infra, from product to AI, I enjoy diving into every corner of the stack.*
+*백엔드부터 인프라까지, 제품부터 AI까지 — 스택 구석구석을 파고드는 걸 즐깁니다.*
 
-*I code slower than AI, but I still mass-produce bugs faster.*
+*코딩은 AI보다 느리지만, 버그는 여전히 AI보다 빨리 찍어냅니다.*
 
-### About Me
+### 소개
 
-- 🏢 Co-CEO & CTO at **Aligndy Co., Ltd.**
-- 💼 Former Lead Engineer & Product Head, VP at HYPERCONNECT
-- ☕ Currently hobby coding — made with coffee
-- 📚 Tuesday Study Group (TSG) member since 2008
+- 🏢 **Aligndy Co., Ltd.** 공동대표 & CTO
+- 💼 전 HYPERCONNECT 리드 엔지니어 · 프로덕트 헤드, VP
+- ☕ 지금은 취미로 코딩 — 커피와 함께
+- 📚 2008년부터 화요 스터디 그룹(TSG) 멤버
 
-### Interests
+### 관심사
 
-- 🤖 Build Products
-- 🐍 Python, Full-stack Development
-- 🗄️ Databases, Infrastructure, Automation
-- 🎮 Gaming, ⌨️ Keyboards, 💰 Finance
+- 🤖 제품 만들기
+- 🐍 Python, 풀스택 개발
+- 🗄️ 데이터베이스, 인프라, 자동화
+- 🎮 게임, ⌨️ 키보드, 💰 금융
 
-### Links
+### 링크
 
-- 📝 Blog: [blog.dgoon.net](https://blog.dgoon.net)
+- 📝 블로그: [blog.dgoon.net](https://blog.dgoon.net)
 - 💼 LinkedIn: [linkedin.com/in/dgoon](https://linkedin.com/in/dgoon)
-- 📈 Daramtickers — pension fund flow tracker: [daramtickers.com](https://www.daramtickers.com)
-- 🔮 Sajugood — AI saju & calendar: [sajugood.day](https://www.sajugood.day)
+- 📈 다람티커스 — 연기금 수급 추적: [daramtickers.com](https://www.daramtickers.com)
+- 🔮 사주좋은날 — AI 사주·만세력: [sajugood.day](https://www.sajugood.day)
