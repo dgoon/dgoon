@@ -26,3 +26,5 @@ I'm **Kangsan Lee** (dgoon), a developer based in Seoul, South Korea.
 
 - 📝 Blog: [blog.dgoon.net](https://blog.dgoon.net)
 - 💼 LinkedIn: [linkedin.com/in/dgoon](https://linkedin.com/in/dgoon)
+- 📈 Daramtickers — pension fund flow tracker: [daramtickers.com](https://www.daramtickers.com)
+- 🔮 Sajugood — AI saju & calendar: [sajugood.day](https://www.sajugood.day)
