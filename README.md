@@ -28,4 +28,7 @@
 - 💼 LinkedIn: [linkedin.com/in/dgoon](https://linkedin.com/in/dgoon)
 - 📈 다람티커스 — 연기금 수급 추적: [daramtickers.com](https://www.daramtickers.com)
 - 🔮 사주좋은날 — AI 사주·만세력: [sajugood.day](https://www.sajugood.day)
+- 📊 FMStock — 에펨코리아 주식 인기글 요약: [fmstock.app](https://www.fmstock.app)
+- 🐦 새 구경 — 인터넷의 새 이야기 모음: [birdtv.app](https://www.birdtv.app)
+- 🕯️ 실화괴담위키 — 실제로 있었다고 전해지는 괴담 모음: [cityhorror.wiki](https://www.cityhorror.wiki)
 - And so on...
